@@ -1,0 +1,2 @@
+# collegeapp AdmainPanel
+ 
